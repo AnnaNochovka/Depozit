@@ -1,1 +1,30 @@
-
+.li{
+    border-radius: 12px;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(175, 101, 78);
+    flex-direction: row ;
+    width: 330px;
+    height: 25px;
+    padding: 10px;
+    
+}
+.body{
+    background-color: rgb(241, 232, 221);
+}
+.a{
+    color: aliceblue;
+}
+.img{
+    width: 450px;
+    height: 300px;
+    
+}
+.wrap{
+    text-align: center;
+    border: 1px;
+}
+.h{
+    text-align: center;
+}
